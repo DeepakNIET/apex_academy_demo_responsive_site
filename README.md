@@ -43,7 +43,7 @@
   - Phone: +91 90123 41234
   - Email: admissions@apexacademy.example
   - WhatsApp: +91 90123 41234
-  - Address: 2nd Floor, Academic Plaza, Sector 62, Noida, Uttar Pradesh – 201309
+  - Address: 2nd Floor, Academic Plaza, Sector 006, Noida, Uttar Pradesh – 201309
   - Working hours: Monday–Saturday, 9:00 AM–6:00 PM
 
   ## Course offerings shown on the website
