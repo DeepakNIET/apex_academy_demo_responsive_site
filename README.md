@@ -29,7 +29,6 @@
     <table>
       <tr>
         <td><img src="./screenshots/admissions-form.png" alt="Admissions enquiry form" width="450" /></td>
-        <td><img src="./screenshots/admissions-form.png" alt="Admission form of the academy" width="220" /></td>
       </tr>
     </table>
   </div>
