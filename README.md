@@ -40,9 +40,9 @@
   - Brand name: Apex Academy
   - Tagline: Excellence in Pedagogy | JEE · NEET · Foundation
   - Admission session: 2026-27
-  - Phone: +91 90123 41234
+  - Phone: +91 00000 00000 (dummy placeholder)
   - Email: admissions@apexacademy.example
-  - WhatsApp: +91 90123 41234
+  - WhatsApp: +91 00000 00000 (dummy placeholder)
   - Address: 2nd Floor, Academic Plaza, Sector 006, Noida, Uttar Pradesh – 201309
   - Working hours: Monday–Saturday, 9:00 AM–6:00 PM
 
