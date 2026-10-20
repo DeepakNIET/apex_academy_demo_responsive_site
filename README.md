@@ -22,7 +22,7 @@
   The following visuals capture the premium branding, admissions-focused landing page, and responsive desktop, tablet, and mobile experiences of Apex Academy.
 
   <div align="center">
-    <img src="./screenshots/desktop-hero.png" alt="Apex Academy desktop landing page" width="900" />
+    <img src="./screenshots/desktop-hero.jpg" alt="Apex Academy desktop landing page" width="900" />
   </div>
 
   <div align="center">
