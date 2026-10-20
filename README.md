@@ -28,7 +28,7 @@
   <div align="center">
     <table>
       <tr>
-        <td><img src="./screenshots/admissions-form.png" alt="Admissions enquiry form" width="450" /></td>
+        <td><img src="./screenshots/admissions-form.png" alt="Admissions enquiry form" width="900" /></td>
       </tr>
     </table>
   </div>
