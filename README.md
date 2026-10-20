@@ -60,6 +60,11 @@
   - Tailwind CSS
   - Lucide-based icons and custom UI styling
 
+  ## Project Purpose
+
+  This project demonstrates my ability to design and build responsive marketing websites for coaching institutes and similar businesses.
+  The design and content can be customized to suit the branding and requirements of a real client.
+
   ## Run locally
 
   1. Install dependencies:
