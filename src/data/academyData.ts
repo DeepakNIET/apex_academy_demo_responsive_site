@@ -51,8 +51,8 @@ export const ACADEMY_CONFIG = {
   whatsappNumber: '919012341234',
   whatsappDisplay: '+91 90123 41234',
   whatsappText: encodeURIComponent('Hello Apex Academy, I would like to inquire about course admissions and batch schedules.'),
-  addressMain: '2nd Floor, Academic Plaza, Sector 62, Noida, Uttar Pradesh – 201309',
-  addressAnnex: '2nd Floor, Academic Plaza, Sector 62, Noida, Uttar Pradesh – 201309',
+  addressMain: '2nd Floor, Academic Plaza, Sector 006, Noida, Uttar Pradesh – 201309',
+  addressAnnex: '2nd Floor, Academic Plaza, Sector 006, Noida, Uttar Pradesh – 201309',
   deskHours: 'Monday–Saturday, 9:00 AM–6:00 PM',
   assets: {
     logo: 'https://lh3.googleusercontent.com/aida-public/AB6AXuA6jpedBYEi64qmAMUZrlG-5_-JZeBp1GnXlEdMFeSF4st_l08KP3wAke11jeCxIyccp-5_yT83SP5FKM8e2zqKl9UHU3E9LDCxj97vLZzAll4ck0CvEfV-ki8obLok0hr6BAmeoXn1Zn59d4nlPQ0PtSnDmL4GvzdMqYoSOxIGVzOlLcNW23qRP04GJluZyyTZtQ2PlYQD09iJfn-p8Sjm_x0pdQb2aCchh7zz0-UaaGjksA_DosNnH9CZWmPPfehCfg',

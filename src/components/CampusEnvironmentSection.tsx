@@ -17,7 +17,7 @@ export const CampusEnvironmentSection: React.FC = () => {
               />
             </div>
             <div className="mt-2.5 sm:mt-3 flex items-center justify-between text-on-surface-variant text-xs sm:text-sm">
-              <span>Central Research &amp; Study Annex, Sector 62 Campus</span>
+              <span>Central Research &amp; Study Annex, Sector 006 Campus</span>
               <span className="text-secondary-container font-semibold">
                 Acoustically Isolated
               </span>
