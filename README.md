@@ -29,13 +29,7 @@
     <table>
       <tr>
         <td><img src="./screenshots/admissions-form.png" alt="Admissions enquiry form" width="450" /></td>
-        <td><img src="./screenshots/mobile-navigation.png" alt="Mobile navigation panel" width="220" /></td>
-      </tr>
-      <tr>
-        <td colspan="2"><img src="./screenshots/mobile-home.png" alt="Mobile responsive home screen" width="500" /></td>
-      </tr>
-      <tr>
-        <td colspan="2"><img src="./screenshots/tablet-home.png" alt="Tablet responsive home screen" width="500" /></td>
+        <td><img src="./screenshots/admissions-form.png" alt="Admission form of the academy" width="220" /></td>
       </tr>
     </table>
   </div>
