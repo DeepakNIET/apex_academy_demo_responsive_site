@@ -304,7 +304,7 @@ export const AdmissionsSection: React.FC<AdmissionsSectionProps> = ({
                         setContactNumber(e.target.value);
                         if (errors.contact) setErrors((prev) => ({ ...prev, contact: undefined }));
                       }}
-                      placeholder="10-digit mobile number (e.g. +91 98700 12345)"
+                      placeholder="10-digit mobile number (e.g. +91 90123 41234)"
                       className={`w-full h-11 pl-10 pr-3.5 rounded-lg bg-surface-container-low text-on-surface text-xs sm:text-sm border transition-all focus:bg-white focus:outline-none focus:ring-2 focus:ring-primary ${
                         errors.contact
                           ? 'border-red-500 focus:ring-red-400'
