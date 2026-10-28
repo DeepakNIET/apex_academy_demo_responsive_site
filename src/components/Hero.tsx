@@ -64,7 +64,12 @@ export const Hero: React.FC = () => {
               src={ACADEMY_CONFIG.assets.classroomPhoto}
               alt="Apex Academy live modern classroom instruction"
               className="w-full h-52 sm:h-64 object-cover"
+              width={1200}
+              height={800}
               loading="eager"
+              fetchPriority="high"
+              decoding="async"
+              sizes="100vw"
             />
             <div className="absolute bottom-2.5 right-2.5 bg-primary/90 backdrop-blur-md px-2.5 py-1 rounded-full text-white text-[10px] sm:text-xs font-semibold flex items-center gap-1.5 shadow-sm">
               <span className="w-1.5 h-1.5 rounded-full bg-emerald-400" />
@@ -113,7 +118,12 @@ export const Hero: React.FC = () => {
               src={ACADEMY_CONFIG.assets.classroomPhoto}
               alt="Apex Academy senior faculty mentoring students during physics derivation"
               className="w-full h-[480px] object-cover"
+              width={1402}
+              height={768}
               loading="eager"
+              fetchPriority="high"
+              decoding="async"
+              sizes="(min-width: 1024px) 42vw, 100vw"
             />
             <div className="absolute inset-0 bg-gradient-to-t from-tertiary/80 via-transparent to-transparent pointer-events-none" />
             <div className="absolute bottom-5 left-5 right-5 flex items-center justify-between text-white">

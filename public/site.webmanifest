@@ -1,0 +1,17 @@
+{
+  "name": "Apex Academy",
+  "short_name": "Apex",
+  "description": "Premium JEE, NEET, and Foundation coaching institute landing page.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f9f9f6",
+  "theme_color": "#0b1326",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

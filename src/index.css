@@ -1,7 +1,7 @@
 @import "tailwindcss";
 
 @theme {
-  --font-sans: "Plus Jakarta Sans", sans-serif;
+  --font-sans: "Plus Jakarta Sans", "Segoe UI", "Inter", sans-serif;
   --color-primary: #000f3f;
   --color-primary-container: #172554;
   --color-primary-fixed: #dce1ff;
@@ -30,9 +30,21 @@
     padding: 0;
     overflow-x: hidden;
   }
+
+  html {
+    scroll-behavior: smooth;
+  }
+
   body {
     -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
   }
+
+  img {
+    display: block;
+    max-width: 100%;
+  }
+
   .pb-safe { padding-bottom: env(safe-area-inset-bottom, 0px); }
   .pt-safe { padding-top: env(safe-area-inset-top, 0px); }
 
@@ -55,6 +67,13 @@
 
 @media (prefers-reduced-motion: reduce) {
   html {
+    scroll-behavior: auto !important;
+  }
+
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
     scroll-behavior: auto !important;
   }
 }

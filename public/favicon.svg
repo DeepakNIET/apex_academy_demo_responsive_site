@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Apex Academy">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#0b1326" />
+      <stop offset="100%" stop-color="#172554" />
+    </linearGradient>
+  </defs>
+  <rect width="128" height="128" rx="28" fill="url(#bg)"/>
+  <path d="M24 92 L54 26 H72 L42 92 Z" fill="#fd761a" />
+  <path d="M57 92 L87 26 H105 L75 92 Z" fill="#ffffff" opacity="0.9" />
+  <path d="M80 26 H75 L58 50 H64 L80 26 Z" fill="#fd761a" opacity="0.95" />
+</svg>
